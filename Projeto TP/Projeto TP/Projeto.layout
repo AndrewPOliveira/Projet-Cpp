@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="385">
+			<Cursor Line="395" Column="33"/>
+		</File>
+		<File Name="Locadora.cpp" Top="No" Tabpos="2" TopLine="22">
+			<Cursor Line="268" Column="33"/>
+		</File>
+		<File Name="Locadora.h" Top="Yes" Tabpos="3" TopLine="17">
+			<Cursor Line="20" Column="7"/>
+			<Selection Line="20" Column="20"/>
+		</File>
+	</Files>
+</Layout>
